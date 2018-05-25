@@ -1,0 +1,34 @@
+baseurl = "https://ryanfreeth.github.io/ChrisLanglois"
+title = "Chris Langlois"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+publishDir = "docs"
+
+[params]
+  description = "Top notch realtor and real cool dude"
+  logo = "fa-globe"
+  copyright = "Chris Langlois 2018"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
