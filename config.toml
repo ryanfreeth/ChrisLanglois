@@ -1,4 +1,4 @@
-baseurl = "https://ryanfreeth.github.io/"
+baseurl = "http://chris-site.s3-website-us-east-1.amazonaws.com/"
 title = "Chris Langlois"
 theme = "dimension"
 languageCode = "en-us"
@@ -9,7 +9,8 @@ disableKinds=["RSS"]
 
 [params]
   description = "Top notch realtor and real cool dude"
-  logo = "fa-globe"
+  # logo = "fa-globe"
+  logoimage = "/images/logo.png"
   copyright = "Chris Langlois 2018"
 
 [[params.social]]

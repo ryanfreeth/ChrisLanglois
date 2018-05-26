@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ryanfreeth.github.io//sitemap.xml
+Sitemap: http://chris-site.s3-website-us-east-1.amazonaws.com//sitemap.xml
