@@ -4,8 +4,8 @@ weight = 40
 draft = false
 +++
 
-Cell: 604-312-9322  
-Office: 604-921-6722  
+Cell: [604-312-9322](tel:604-312-9322)  
+Office: [604-921-6722](tel:604-921-6722)  
 
 <chris@chrislanglois.ca>
 
