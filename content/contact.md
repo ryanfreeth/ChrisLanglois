@@ -4,6 +4,12 @@ weight = 40
 draft = false
 +++
 
+Cell: 604-312-9322  
+Office: 604-921-6722  
+
+<chris@chrislanglois.ca>
+
+<!--
 <form method="post" action="#">
 	<div class="field half first">
 		<label for="name">Name</label>
@@ -22,5 +28,6 @@ draft = false
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
+-->
 
-{{< socialLinks >}}
+<!-- {{< socialLinks >}} -->
