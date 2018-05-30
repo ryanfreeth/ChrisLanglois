@@ -1,0 +1,4 @@
+#header > *:before {
+  width: 0px; }
+#header .logo {
+  border: solid 0px #ffffff; }
