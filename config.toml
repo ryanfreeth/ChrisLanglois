@@ -14,19 +14,19 @@ disableKinds=["RSS"]
   copyright = "Chris Langlois 2018"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/chrislangloisrealestate/"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/chris_langlois/"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/chris-langlois-372a1880/"
 
 [languages]
 [languages.en]

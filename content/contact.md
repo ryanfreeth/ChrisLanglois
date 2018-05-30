@@ -30,4 +30,4 @@ Office: [604-921-6722](tel:604-921-6722)
 </form>
 -->
 
-<!-- {{< socialLinks >}} -->
+{{< socialLinks >}}
