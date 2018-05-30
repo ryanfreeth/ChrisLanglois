@@ -875,7 +875,7 @@ button {
       position: absolute;
       top: calc(-3.5rem - 1px);
       left: calc(50% - 1px);
-      width: 1px;
+      width: 0px;
       height: calc(3.5rem + 1px);
       background: #ffffff; }
   #header > :first-child {
@@ -886,7 +886,7 @@ button {
     width: 5.5rem;
     height: 5.5rem;
     line-height: 5.5rem;
-    border: solid 1px #ffffff;
+    border: solid 0px #ffffff;
     border-radius: 100%; }
     #header .logo .icon:before {
       font-size: 2rem; }
