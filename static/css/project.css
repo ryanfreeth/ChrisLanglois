@@ -1,4 +1,10 @@
 #header > *:before {
   width: 0px; }
 #header .logo {
-  border: solid 0px #ffffff; }
+  width: 8.5rem;
+  height: 8.5rem;
+  line-height: 8.5rem;
+  border: solid 0px #ffffff;
+  border-radius: 100%; }
+#header > * {
+  margin-top: 1.5rem; }
