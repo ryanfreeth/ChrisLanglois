@@ -3,11 +3,15 @@ title = "Contact"
 weight = 30
 draft = false
 +++
-
+## Chris Langlois
 Cell: [604-312-9322](tel:604-312-9322)  
 Office: [604-921-6722](tel:604-921-6722)  
-
 <chris@chrislanglois.ca>
+
+## Karla Cameron
+#### Client Care & Marketing Coordinator  
+[778-840-2401](tel:778-840-2401)  
+<karla@chrislanglois.ca>
 
 <!--
 <form method="post" action="#">
