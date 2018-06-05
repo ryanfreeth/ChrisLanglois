@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 
 [params]
-  description = "Real Estate"
+  description = "Real Estate<br /><br />Full Website Coming Soon"
   # logo = "fa-globe"
   logoimage = "/images/logo.png"
   copyright = "Chris Langlois 2018"
