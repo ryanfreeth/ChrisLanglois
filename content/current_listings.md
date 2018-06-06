@@ -2,12 +2,11 @@
 title = "Current Listings"
 weight = 20
 date = 2018-05-29T21:09:20-07:00
-draft = true
+draft = false
 +++
 
 ***
 
-### 1865 Barclay Street
-##### 1 Bed | 1 Bath
-![1865 Barclay inside](/images/barclay.jpg)
-$1,000,000
+### 6945 Marine Drive, West Vancouver  |   $2,495,000
+##### 4 bed / 3 bath  |  3,437 sq ft
+{{< gallery dir="/images/6945-Marine/" />}} {{< load-photoswipe >}}
