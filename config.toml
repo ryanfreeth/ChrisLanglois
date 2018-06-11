@@ -1,4 +1,4 @@
-baseurl = "http://chris-site.s3-website-us-east-1.amazonaws.com/"
+baseurl = "http://chrislanglois.ca/"
 title = "Chris Langlois"
 theme = "dimension"
 languageCode = "en-us"
