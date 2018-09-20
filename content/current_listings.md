@@ -6,11 +6,9 @@ draft = false
 +++
 
 ***
-### [6945 Marine Drive, West Vancouver](https://maps.google.com/?q=6945+Marine+Drive,+West+Vancouver&entry=gmail&source=g)  |   $2,495,000
-##### 4 bed / 3 bath  |  3,437 sq ft
+### [#305 - 3711 Delbrook Ave., North Vancouver](https://goo.gl/maps/nhKyJUbMb492)  
+##### 2 bed | 2 bath  |  872 sq ft
 
-{{< youtube G5LRggYoh28 >}}
+{{< youtube 7q4lt0gRxTs >}}
 
-Surrounded by forest and lush gardens, this private family home is located in the sunny Whytecliff Park area. The living and dining rooms are open concept and perfect for entertaining with the space flowing to the expansive patio, which creates the perfect West Coast indoor/outdoor living space!  
-The master suite is its own retreat with sitting room, three sided gas fireplace, five piece ensuite and spacious walk in closet. Two more bedrooms are upstairs with another full bath and all of the other comforts of day to day living at its finest.  Downstairs is an additional bedroom which is currently set up as an office, a great room, home gym and additional full bath.  
-Parks, hiking & beach are all within walking distance and the convenient amenities of Horseshoe Bay are 5 minutes away!
+Welcome to Delbrook Plaza, a peaceful and serene development nestled in Upper Delbrook. This is a great opportunity to own a 2 level, 2 bed, 2 bath condo with lots of recent updates. Boasting a spacious open floor plan, spread out over approx. 872 sq ft, and TONS natural light thanks to skylights on main level and large windows on each floor. The balcony has fantastic views of the downtown skyline and the common area rooftop patio has stunning views of the North Shore mountains. Extremely convenient location close to Edgemont Village, Delbrook Rec Center, schools & public transit.
